@@ -5,4 +5,6 @@ val r1fer = developer {
     }
     links {
         telegram = "@r1fer"
+    }
+}
 ```
